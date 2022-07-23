@@ -1,0 +1,3 @@
+"ip":"rishisserver2.aternos.me"
+"port":"15180",
+"name":"rishiserverbot"
